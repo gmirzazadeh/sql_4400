@@ -1,4 +1,4 @@
-package com.example.sql_4400;
+package com.example.traveljournal;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

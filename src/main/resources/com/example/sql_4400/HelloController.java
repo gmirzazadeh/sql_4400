@@ -1,4 +1,4 @@
-package com.example.sql_4400;
+package com.example.traveljournal;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
