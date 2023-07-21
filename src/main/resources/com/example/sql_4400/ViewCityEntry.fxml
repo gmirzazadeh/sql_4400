@@ -10,7 +10,7 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#3089dc" height="428.0" layoutX="-9.0" layoutY="-11.0" stroke="BLACK" strokeType="INSIDE" width="609.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#3089dc" height="413.0" layoutX="-8.0" layoutY="-5.0" stroke="BLACK" strokeType="INSIDE" width="615.0" />
       <Text layoutX="178.0" layoutY="73.0" strokeType="OUTSIDE" strokeWidth="0.0" text="View City Entry">
          <font>
             <Font size="36.0" />
@@ -27,17 +27,17 @@
             <Font size="24.0" />
          </font>
       </Text>
-      <TextField layoutX="310.0" layoutY="99.0" prefHeight="26.0" prefWidth="42.0">
+      <TextField editable="false" layoutX="310.0" layoutY="99.0" prefHeight="26.0" prefWidth="42.0">
          <font>
             <Font size="18.0" />
          </font>
       </TextField>
-      <TextField layoutX="83.0" layoutY="184.0" prefHeight="26.0" prefWidth="42.0">
+      <TextField layoutX="82.0" layoutY="184.0" prefHeight="30.0" prefWidth="94.0">
          <font>
             <Font size="14.0" />
          </font>
       </TextField>
-      <TextField layoutX="83.0" layoutY="245.0" prefHeight="26.0" prefWidth="42.0">
+      <TextField layoutX="83.0" layoutY="245.0" prefHeight="30.0" prefWidth="94.0">
          <font>
             <Font size="14.0" />
          </font>
